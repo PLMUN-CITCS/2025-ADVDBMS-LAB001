@@ -1,5 +1,5 @@
-# 2025-OBJPROG-LAB001
-Laboratory # 01 - Java Hello World Program and Introduction to Git
+# 2025-ADVDBMS-LAB001
+Laboratory # 01 - Practicing Git with a Java Hello World Program
 
 ---
 
@@ -75,7 +75,7 @@ cd <your_cloned_local_repo_folder>
 
 ### **Step 3: Complete the Assignment**
 
-# **Laboratory # 01 - Java Hello World Program and Introduction to Git**
+# **Laboratory # 01 - Practicing Git with a Java Hello World Program**
 
 **Objective**
 The goal of this exercise is to create a simple Java program that prints "Hello, World!" to the console. This task introduces you to Java syntax, basic program structure, and proper project organization.
